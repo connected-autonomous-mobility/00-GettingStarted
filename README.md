@@ -7,7 +7,7 @@ We want to keep this place as compact as possible. Please let's not duplicate le
 
 ## About Us
 
-Homebrew computer club for autonomous mobility: connect schools, creatives, engineers, startups, companies, politics for exchange & projects to create a seamless connected user experience of mobility, information and services in cities. inspired by [@chr1sa](https://twitter.com/chr1sa), [DIYrobocars](www.DIYrobocars.com)
+Homebrew computer club for autonomous mobility: connect schools, creatives, engineers, startups, companies, politics for exchange & projects to create a seamless connected user experience of mobility, information and services in cities. inspired by [@chr1sa](https://twitter.com/chr1sa), [DIYrobocars](https://diyrobocars.com).
 
 [Meetup](https://www.meetup.com/Connected-Autonomous-Driving/) <br>
 [Twitter](https://twitter.com/robomakerspace) <br>
