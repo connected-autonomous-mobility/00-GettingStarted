@@ -1,9 +1,9 @@
 # 00-GettingStarted
 
-This is the home of data & code for Connected Autonomous Mobility.
+This is the home of data & code for Connected Autonomous Mobility. <br>
 
-[Meetup](https://www.meetup.com/Connected-Autonomous-Driving/)
-[Twitter](https://twitter.com/robomakerspace)
+[Meetup](https://www.meetup.com/Connected-Autonomous-Driving/) <br>
+[Twitter](https://twitter.com/robomakerspace) <br>
 
 
 ## About Us
