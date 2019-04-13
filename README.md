@@ -2,7 +2,7 @@
 
 This is the home of data & code for Connected Autonomous Mobility.
 
-### Naming Conventions
+### Content
 
 #### 00-GettingStarted
 #### 10-data
