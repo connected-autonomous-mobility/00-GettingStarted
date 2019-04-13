@@ -2,7 +2,7 @@
 
 This is the home of data & code for Connected Autonomous Mobility. <br>
 
-We want to keep this place as compact as possible. Please let's not duplicate lengthly descriptions from sites like [DIYrobocars.com](https://diyrobocars.com), [donkeycar.com](http://www.donkeycar.com) but just the changes, the new stuff. Let's contribute to their repositories to make the best possible documentation.
+We want to keep this place as compact as possible. Please let's not duplicate lengthly descriptions from sites like [DIYrobocars.com](https://diyrobocars.com), [donkeycar.com](http://www.donkeycar.com), [Tawn Kramer](https://github.com/tawnkramer/donkey/blob/master/docs/guide/install_software.md) but just the changes, the new stuff. Let's contribute to their repositories to make the best possible documentation.
 
 
 ## About Us
