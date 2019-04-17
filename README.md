@@ -15,6 +15,17 @@ Homebrew computer club for autonomous mobility*: connect schools, creatives, eng
 ## Content (under construction)
 
 #### 00-GettingStarted
+
+following Tawn Kramer https://github.com/tawnkramer
+https://github.com/tawnkramer/donkey/blob/master/docs/guide/install_software.md
+
+introduction videos by Tawn Kramer
+
+part 1 https://youtu.be/YZ4ESrtfShs
+
+part 2 https://youtu.be/G1JjAw_NdnE
+
+
 #### 10-tracks
 #### 20-data
 #### 30-projects
