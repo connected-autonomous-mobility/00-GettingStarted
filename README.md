@@ -26,8 +26,8 @@ part 1 https://youtu.be/YZ4ESrtfShs
 part 2 https://youtu.be/G1JjAw_NdnE
 
 
-#### 10-tracks
-#### [20-data](https://github.com/connected-autonomous-mobilty/10-tracks)
+#### [10-tracks](https://github.com/connected-autonomous-mobilty/10-tracks)
+#### [20-data](https://github.com/connected-autonomous-mobilty/20-data)
 #### 30-projects
 https://github.com/RoboCarEsslingen/Road-Lane-Semantic-segmentation (Marouen)
 #### 40-tools
