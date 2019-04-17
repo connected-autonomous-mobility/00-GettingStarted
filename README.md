@@ -15,7 +15,7 @@ Homebrew computer club for autonomous mobility*: connect schools, creatives, eng
 ## Content (under construction)
 
 #### 00-GettingStarted
-#### 10-tracks, roads
+#### 10-tracks
 #### 20-data
 #### 30-projects
 https://github.com/RoboCarEsslingen/Road-Lane-Semantic-segmentation (Marouen)
