@@ -18,7 +18,7 @@ Homebrew computer club for autonomous mobility*: connect schools, creatives, eng
 
 Tawn Kramer https://github.com/tawnkramer has taking the great initiative to merge a lot of his work into 
 [DIYrobocar](https://github.com/autorope/donkeycar),
-so just follow instruction there!
+so just follow instructions there!
 
 This was the original site of Tawn Kramer
 https://github.com/tawnkramer/donkey/blob/master/docs/guide/install_software.md
