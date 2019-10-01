@@ -11,7 +11,7 @@ Homebrew computer club for autonomous mobility*: connect schools, creatives, eng
 
 [Meetup](https://www.meetup.com/Connected-Autonomous-Driving/) <br>
 [Twitter](https://twitter.com/robomakerspace) <br>
-[Slack](donkeycar.slack.com)
+[Slack](https://donkeycar.slack.com)
 
 ## Content (under construction)
 
