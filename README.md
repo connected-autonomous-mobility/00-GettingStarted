@@ -32,12 +32,20 @@ part 2 https://youtu.be/G1JjAw_NdnE
 
 
 #### [10-tracks](https://github.com/connected-autonomous-mobilty/10-tracks)
+
+This repo contains surfaces and textures for racing tracks that are used for our racing events and vehicle developments
+
 #### [20-data](https://github.com/connected-autonomous-mobilty/20-data)
+
+This repo contains training data sets that have been collected on our quarterly racing events
+
 #### 30-projects
 
-https://github.com/RoboCarEsslingen/Minimun_Viable_Racer (Marouen) <br>
-
-https://github.com/RoboCarEsslingen/Road-Lane-Semantic-segmentation (Marouen) <br>
+| Project Name | Description | Author | Links |
+|:------------:|:-----------:|:------:|:-----:|
+|Minimun Viable Racer | Minimal Vehicle Driving Test Course | Marouen | [Github Repo](https://github.com/RoboCarEsslingen/Minimun_Viable_Racer) |
+| Road Lane Semantic Segmentation | Semantic Segmentation Experiments | Marouen | [Github Repo](https://github.com/RoboCarEsslingen/Road-Lane-Semantic-segmentation) |
+| Donkey Docker Barn | Docker-based Development Environment for Donkey Car | Oliver | [Github Repo](https://github.com/deltaflyer/donkey-docker-barn) |
 
 #### 40-tools
 #### 50-meetups
