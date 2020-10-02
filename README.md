@@ -30,6 +30,7 @@ part 1 https://youtu.be/YZ4ESrtfShs
 
 part 2 https://youtu.be/G1JjAw_NdnE
 
+Ed Murphys [presentation](https://docs.google.com/presentation/d/1oOF9qHh6qPwF-ocOwGRzmLIRXcIcguDFwa7x9EicCo8/edit) and [talk](https://youtu.be/pq6hiZEdirE)
 
 #### [10-tracks](https://github.com/connected-autonomous-mobilty/10-tracks)
 #### [20-data](https://github.com/connected-autonomous-mobilty/20-data)
