@@ -41,4 +41,5 @@ https://github.com/RoboCarEsslingen/Minimun_Viable_Racer (Marouen) <br>
 https://github.com/RoboCarEsslingen/Road-Lane-Semantic-segmentation (Marouen) <br>
 
 #### [40-tools](https://github.com/Heavy02011/40-tools)
-#### 50-meetups
+#### [50-hardware](https://github.com/connected-autonomous-mobility/50-hardware)
+#### 60-meetups
